@@ -59,6 +59,8 @@ img {
 	padding-right: 15px;
 	margin-left: auto;
 	margin-right: auto;
+}
+.section {
 	padding-top: 94px;
 	padding-bottom: 94px;
 }
@@ -191,7 +193,7 @@ img {
 	background-color: var(--selection-btn-color);
 }
 /* abbout */
-.abbout-conteiner {
+.abbout-container {
 	display: flex;
 	gap: 30px;
 }
@@ -218,6 +220,9 @@ img {
 }
 
 /* work */
+.work {
+	padding-top: 0;
+}
 
 .work-title {
 	margin-bottom: 50px;
